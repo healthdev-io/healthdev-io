@@ -34,6 +34,6 @@
   <a href = "mailto:contato@healthdev.io"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5585999547116&text=%20" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%2323d366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/healthdev-io/healthdev-io/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/healthdev-io/healthdev-io/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
